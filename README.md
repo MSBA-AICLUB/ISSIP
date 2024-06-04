@@ -12,13 +12,20 @@ To accomplish this, each person participates in testing three different AI tools
 Once the tools are used to generate the above three generative outputs, each tool is evaluated against 5 **Responsible AI principles**. You can find the detail dive into the [five principles](https://github.com/MSBA-AICLUB/ISSIP/blob/main/EVALUATION_PRINCIPLES.md).
 
 ## Documentation
-The testing phase was split into three rounds. Click the name of the Gen AI tool below to view detailed documentation. 
+The testing phase was split into three rounds. Each team member have individually performed 2-3 rounds of testing. The following are the Gen AI tools and their respective evalutaion rating. Click the links below to view detailed documentation. 
 
 | Round | Tool                                                                             | Overall Rating |
 |-------|----------------------------------------------------------------------------------|----------------|
 | 1     |  [Copy AI](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)              | 4/5            |
 | 2     |  [Playground AI](https://github.com/Aaron-Thai/GenAI/blob/main/PlaygroundAI.md)  | 1/5            |
 | 3     |  [Decohere AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 4     |  [Chat GPT](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 4/5            |
+| 5     |  [Midjourney](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 6     |  [Hey gen](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 4/5            |
+| 7     |  [Moosa](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 8     |  [Moosa](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 9     |  [Moosa](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+
 
 
 ## Rating Scale
