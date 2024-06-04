@@ -9,7 +9,7 @@ There are two main goals of this project:
 
 To accomplish this, each person participates in testing three different AI tools. Our goal was to generate **text, images, and video** promoting certain service innovations. 
 
-Once the tools are used to generate the above three generative outputs, each tool is evaluated against 5 **Responsible AI principles**. You can find the detail dive into the five principles.
+Once the tools are used to generate the above three generative outputs, each tool is evaluated against 5 **Responsible AI principles**. You can find the detail dive into the [five principles](https://github.com/MSBA-AICLUB/ISSIP/blob/main/EVALUATION_PRINCIPLES.md).
 
 ## Documentation
 The testing phase was split into three rounds. Click the name of the Gen AI tool below to view detailed documentation. 
