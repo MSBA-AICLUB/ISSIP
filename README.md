@@ -19,12 +19,19 @@ The testing phase was split into three rounds. Each team member have individuall
 | 1     |  [Copy AI](https://github.com/Aaron-Thai/GenAI/blob/main/CopyAI.md)              | 4/5            |
 | 2     |  [Playground AI](https://github.com/Aaron-Thai/GenAI/blob/main/PlaygroundAI.md)  | 1/5            |
 | 3     |  [Decohere AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
-| 4     |  [Chat GPT](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 4/5            |
-| 5     |  [Midjourney](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
-| 6     |  [Hey gen](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 4/5            |
+| 4     |  [Chat GPT](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Revathi%20Chintapalli.md)      | 4/5            |
+| 5     |  [Midjourney](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Revathi%20Chintapalli.md)      | 3/5            |
+| 6     |  [Hey gen](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Revathi%20Chintapalli.md)      | 4/5            |
 | 7     |  [Moosa](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
 | 8     |  [Moosa](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
 | 9     |  [Moosa](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 10     |  [Kunsulyu](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 11     |  [Kunsulyu](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 12    |  [Kunsulyu](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 13     |  [Jada](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 14    |  [Jada](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 15     |  [Lourdes](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 16     |  [Lourdes](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
 
 
 
