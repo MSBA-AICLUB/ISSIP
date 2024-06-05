@@ -111,8 +111,7 @@ To start using the tool:
 
 
 
-*Image Prompt #2*:
-Using prompt suggestions: 
+*Image Prompt #2*, using prompt suggestions: 
 “Cloud computing concept with laptop and abstract technology icons around” 
 
 ![Cloud Computing](https://github.com/Kunsulyu/ISSIP_KJ/blob/bd16a752cd6ec5f69d2c06e145f365fa048d8a6f/images/cloud_computing.png)
@@ -122,8 +121,7 @@ Using prompt suggestions:
 
 
 
-  *Image Prompt #3*:
-  Using prompt suggestions:
+  *Image Prompt #3*, using prompt suggestions:
  “An infographic of cloud computing; a woman with a laptop”
 
 ![Cloud Computing](https://github.com/Kunsulyu/ISSIP_KJ/blob/22a68a3be585c8342c1f9b78c2b758612a3d6bb5/images/cloud_computing2.png)
