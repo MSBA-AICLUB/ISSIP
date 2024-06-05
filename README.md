@@ -22,9 +22,9 @@ The testing phase was split into three rounds. Each team member has individually
 | 4     |  [Chat GPT](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Revathi%20Chintapalli.md)      | 4/5            |
 | 5     |  [Midjourney](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Revathi%20Chintapalli.md)      | 3/5            |
 | 6     |  [Hey gen](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Revathi%20Chintapalli.md)      | 4/5            |
-| 7     |  [Bard-GeminiAI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
-| 8     |  [Runway](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
-| 9     |  [Story AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 7     |  [Bard-GeminiAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Moosa%20Nausab.md)      | 3/5            |
+| 8     |  [Runway](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Moosa%20Nausab.md)      | 3/5            |
+| 9     |  [Story AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Moosa%20Nausab.md)      | 3/5            |
 | 10     |  [Claude AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Kunsulyu%20Janabayeva.md)      | 4/5            |
 | 11     |  [Adobe Firefly](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Kunsulyu%20Janabayeva.md)      | 3/5            |
 | 12    |  [Heygen](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Kunsulyu%20Janabayeva.md)      | 4/5            |
