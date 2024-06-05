@@ -2,6 +2,8 @@
 
 This project is part of a collaboration between the [International Society of Service Innovation Professionals](https://www.issip.org) (ISSIP) and [Center of Business Analytics](https://www.tacoma.uw.edu/business/cba)via the Analytics Innovation Club (AI Club) at the University of Washington Tacoma.
 
+To understand a quick overview, here is a [poster](https://github.com/MSBA-AICLUB/ISSIP/blob/main/ISSIP%20Poster.pdf) explaining the project. 
+
 ## Goals
 There are two main goals of this project:
 1. Increase **understanding of the various AI tools and their scalability** on the market.
@@ -33,7 +35,6 @@ The testing phase was split into three rounds. Each team member has individually
 | 15     |  [Murf AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Murf.AI.pdf)      | 3/5            |
 | 16     |  [ClaudeAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/ClaudeAI_Lourdes.pdf)      | 3/5            |
 | 17     |  [GeminiAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Gemini_Lourdes.pdf)      | 3/5            |
-
 
 
 ## Rating Scale
