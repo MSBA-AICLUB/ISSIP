@@ -129,7 +129,7 @@ To start using the tool:
 - The text is unclear, and the language is not easily understandable.
 
 
-## Ethics Rating: 5/5
+## Ethics Rating: 4/5
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
 |------------------------------|--------------|--------------------------------------------------------------------------------------------|
 | **1. Fairness**              |              |                                                                                            |
