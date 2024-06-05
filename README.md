@@ -31,7 +31,8 @@ The testing phase was split into three rounds. Each team member have individuall
 | 13     |  [Deep AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
 | 14    |  [Microsoft Bing](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
 | 15     |  [Murf AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Murf.AI.pdf)      | 3/5            |
-| 16     |  [ClaudeAI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 16     |  [ClaudeAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/ClaudeAI_Lourdes.pdf)      | 3/5            |
+| 17     |  [GeminiAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/ClaudeAI_Lourdes.pdf)      | 3/5            |
 
 
 
