@@ -1,4 +1,4 @@
-![bacoft2](https://github.com/MSBA-AICLUB/ISSIP/assets/91993827/667014eb-17b1-40d2-9cd3-a71076d56fe7)# Round 3: Decohere AI
+# Round 3: Decohere AI
 [Decohere AI](https://www.decohere.ai/) is an online AI tool that **generates images and video** in response to user prompts. Notably, use is limited to **1000 image prompts + 10 video prompts a month.**
 
 Foremerly known as Decoherence.co, *decohere* is a new UW startup backed by Y Combinator, featuring realtime image prompts.
