@@ -1,6 +1,6 @@
 # Outlook on Generative AI
 
-This project is part of a collaboration between the [International Society of Service Innovation Professionals](https://www.issip.org) (ISSIP) and [Center of Business Analytics](https://www.tacoma.uw.edu/business/cba)via the Analytics Innovation Club (AI Club) at the University of Washington Tacoma.
+This project is part of a collaboration between the [International Society of Service Innovation Professionals](https://www.issip.org) (ISSIP) and [Center of Business Analytics](https://www.tacoma.uw.edu/business/cba) via the Analytics Innovation Club (AI Club) at the University of Washington Tacoma.
 
 To understand a quick overview, here is a [poster](https://github.com/MSBA-AICLUB/ISSIP/blob/main/ISSIP%20Poster.pdf) explaining the project. 
 
@@ -11,10 +11,15 @@ There are two main goals of this project:
 
 To accomplish this, each person participates in testing three different AI tools. Our goal was to generate **text, images, and video** promoting certain service innovations. 
 
-Once the tools are used to generate the above three generative outputs, each tool is evaluated against 5 **Responsible AI principles**. You can find the detail dive into the [five principles](https://github.com/MSBA-AICLUB/ISSIP/blob/main/EVALUATION_PRINCIPLES.md).
+Once the tools are used to generate the above three generative outputs, each tool is evaluated against 5 **Responsible AI principles**. You can find the detailed dive into the [five principles](https://github.com/MSBA-AICLUB/ISSIP/blob/main/EVALUATION_PRINCIPLES.md).
+
+## Example Content
+This example website uses AI-generated content (text, image, and video) to promote the topic of "Fitness Trackers as a Service Innovation". The website was based on code from [Moosa Naushab](https://www.linkedin.com/in/moosan/) and additional edits were made in Visual Studio Code.
+
+Visit the website here: https://aaron-thai.github.io/GenAI/
 
 ## Documentation
-The testing phase was split into three rounds. Each team member has individually performed 2-3 rounds of testing. The following are the Gen AI tools and their respective evalutaion rating. Click the links below to view detailed documentation. 
+The testing phase was split into three rounds. Each team member has individually performed 2-3 rounds of testing. The following are the Gen AI tools and their respective evaluation rating. Click the links below to view detailed documentation. 
 
 | Round | Tool                                                                             | Overall Rating |
 |-------|----------------------------------------------------------------------------------|----------------|
