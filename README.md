@@ -28,8 +28,8 @@ The testing phase was split into three rounds. Each team member has individually
 | 10     |  [Claude AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/KunsulyuJayabave.md)      | 4/5            |
 | 11     |  [Adobe Firefly](https://github.com/MSBA-AICLUB/ISSIP/blob/main/KunsulyuJayabave.md)      | 3/5            |
 | 12    |  [Heygen](https://github.com/MSBA-AICLUB/ISSIP/blob/main/KunsulyuJayabave.md)      | 4/5            |
-| 13     |  [Deep AI](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
-| 14    |  [Microsoft Bing](https://github.com/Aaron-Thai/GenAI/blob/main/DecohereAI.md)      | 3/5            |
+| 13     |  [Deep AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Jada%20Simpson.md)      | 3/5            |
+| 14    |  [Microsoft Bing](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Jada%20Simpson.md)      | 5/5            |
 | 15     |  [Murf AI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Murf.AI.pdf)      | 3/5            |
 | 16     |  [ClaudeAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/ClaudeAI_Lourdes.pdf)      | 3/5            |
 | 17     |  [GeminiAI](https://github.com/MSBA-AICLUB/ISSIP/blob/main/Gemini_Lourdes.pdf)      | 3/5            |
