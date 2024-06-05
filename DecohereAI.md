@@ -1,4 +1,4 @@
-# Round 3: Decohere AI
+![bacoft2](https://github.com/MSBA-AICLUB/ISSIP/assets/91993827/667014eb-17b1-40d2-9cd3-a71076d56fe7)# Round 3: Decohere AI
 [Decohere AI](https://www.decohere.ai/) is an online AI tool that **generates images and video** in response to user prompts. Notably, use is limited to **1000 image prompts + 10 video prompts a month.**
 
 Foremerly known as Decoherence.co, *decohere* is a new UW startup backed by Y Combinator, featuring realtime image prompts.
@@ -25,18 +25,18 @@ Let's start with the most successful prompt from Round 2's image generating.
 
 *Image Prompt #1*:
 * "Happy athlete wearing a smartwatch"
->![one watch, holding a phone](./images/decohereAI/hawasw.jpeg)
+>![one watch, holding a phone](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw.jpeg)
 
-This inital image is okay, but I count three smartwatches which is definitely too many.
+This initial image is okay, but I count three smartwatches which is definitely too many.
 
 I saw many images flash past as I typed in my prompt, but it ended on this one. You can also click left and right to see other generated images from the same prompt. I am clicking left to cycle through those images and see if it eventually cycles back to the original or generates new ones. I have cycled left 7 times and I will conclude that it does not circle back to the original.
 
->![man, two watches](./images/decohereAI/hawasw2.jpeg)
-![woman, two watches](./images/decohereAI/hawasw3.jpeg)
-![woman, one watch](./images/decohereAI/hawasw4.jpeg)
-![woman, one watch](./images/decohereAI/hawasw5.jpeg)
-![man, blue, two watches](./images/decohereAI/hawasw6.jpeg)
-![man, red, two watches](./images/decohereAI/hawasw7.jpeg)
+>![man, two watches](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw2.jpeg)
+![woman, two watches](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw3.jpeg)
+![woman, one watch](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw4.jpeg)
+![woman, one watch](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw5.jpeg)
+![man, blue, two watches](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw6.jpeg)
+![man, red, two watches](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawasw7.jpeg)
 
 All images appear to be track runners, both male and female, mainly white so far. (This suggests some bias in their training data.) Their poses can be slightly strange, somewhere between in action running down the track and posing for the picture. The main critique is that on most of them, they are actually wearing more than one smartwatch. (When I specified “a” meaning only one in the prompt).
 
@@ -47,7 +47,7 @@ Let’s also try changing the default image options.
 *Image Prompt #2*:
 * "Happy athlete wearing a fitness tracker"
 * Image size: Square (1:1, Instagram, etc.)
->![one watch, holding a phone](./images/decohereAI/hawaft.jpeg)
+>![one watch, holding a phone](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft.jpeg)
 
 There were disappointing results when I first typed in the prompt (no real signs of a fitness tracker and possibly multiple arms in a side picture). But surprisingly, there were much better results once I changed the frame to Square.
 
@@ -57,13 +57,13 @@ I am satisfied with these images, but with a monthly limit of 1000 images a mont
 
 This time I cycle right. I am curious if I can go back to the left and grab the initial picture on the left? Apparently, I can. That is nice. Being able to simply click on the next available image is kind of fun.
 
->![one watch, holding a phone](./images/decohereAI/hawaft2.jpeg)
-![one watch, holding a phone, front](./images/decohereAI/hawaft3.jpeg)
-![one watch, running](./images/decohereAI/hawaft4.jpeg)
-![two watches, running](./images/decohereAI/hawaft5.jpeg)
-![one watch, pose](./images/decohereAI/hawaft6.jpeg)
-![one watch, action](./images/decohereAI/hawaft7.jpeg)
-![one watch, action](./images/decohereAI/hawaft8.jpeg)
+>![one watch, holding a phone](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft2.jpeg)
+![one watch, holding a phone, front](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft3.jpeg)
+![one watch, running](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft4.jpeg)
+![two watches, running](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft5.jpeg)
+![one watch, pose](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft6.jpeg)
+![one watch, action](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft7.jpeg)
+![one watch, action](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaft8.jpeg)
 
 On closer inspection it appears that a double watch is still appearing.
 
@@ -72,9 +72,9 @@ Next, I’m interested to see if results change if I select the Tall image frame
 *Image Prompt #3*:
 * "Happy athlete wearing a fitness tracker"
 * Image size: Tall (9:16, Tiktok, etc.)
->![one watch, action](./images/decohereAI/hawaftTALL.jpeg)
-![strange hand, tag](./images/decohereAI/hawaftTALL2.jpeg)
-![two watches, tag](./images/decohereAI/hawaftTALL3.jpeg)
+>![one watch, action](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaftTALL.jpeg)
+![strange hand, tag](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaftTALL2.jpeg)
+![two watches, tag](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/hawaftTALL3.jpeg)
 
 Entirely new images are generated when switching frames. The page must be zoomed out to see your saved images.
 
@@ -85,8 +85,8 @@ Let’s go back to simply “happy athlete.”
 *Image Prompt #4*:
 * "Happy athlete"
 * Image size: Wide (16:9, Youtube, etc.)
->![happy athlete](./images/decohereAI/Happyathlete.jpeg)
-![happy athlete, two](./images/decohereAI/Happyathlete2.jpeg)
+>![happy athlete](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/Happyathlete.jpeg)
+![happy athlete, two](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/Happyathlete2.jpeg)
 
 We get roughly the same images of track runners across all frame sizes.
 
@@ -154,10 +154,10 @@ Let's start with a new image prompt.
 *Image Prompt #5*:
 * "Benefits and challenges of fitness trackers"
 * Image size: Wide (16:9, Youtube, etc.)
->![two watches](./images/decohereAI/bacoft.jpeg)
-![watch and phone](./images/decohereAI/bacoft1.jpeg)
-![watch, running](./images/decohereAI/bacoft2.jpeg)
-![running on the phone](./images/decohereAI/bacoft3.jpeg)
+>![two watches](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/bacoft.jpeg)
+![watch and phone](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/bacoft1.jpeg)
+![watch, running](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/bacoft2.jpeg)
+![running on the phone](https://github.com/Aaron-Thai/GenAI/blob/main/images/decohereAI/bacoft3.jpeg)
 
 Now let's turn the last image into a video.
 
