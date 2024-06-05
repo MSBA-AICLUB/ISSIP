@@ -33,25 +33,25 @@ Additionally I tried using the following filter:
 *Image Prompt #1*:
 For the first prompt I simply added "using a fitness tracker".
 * "8k close up portrait of a fitness enthusiast engaged in a workout routine, demonstrating strength, agility, and determination, inspiring a healthy and active lifestyle, using a fitness tracker, high resolution, highly detailed and Use a 'Close-up Details' filter to focus on intricate elements, revealing the beauty in small things."
->![prompt output with an extra leg](./images/playgroundAI/Picture1.png)
+>![prompt output with an extra leg](https://github.com/Aaron-Thai/GenAI/blob/main/images/playgroundAI/Picture1.png)
 
 There is no fitness tracker visible in this image. At first I thought that perhaps "fitness tracker" was not a recognizable prompt, so next I tried "smartwatch" instead.
 
 *Image Prompt #2*:
 * "8k close up portrait of a fitness enthusiast engaged in a workout routine, demonstrating strength, agility, and determination, inspiring a healthy and active lifestyle, looking at a smartwatch, high resolution, highly detailed and Use a 'Close-up Details' filter to focus on intricate elements, revealing the beauty in small things."
->![prompt output with an extra arm](./images/playgroundAI/Picture2.png)
+>![prompt output with an extra arm](https://github.com/Aaron-Thai/GenAI/blob/main/images/playgroundAI/Picture2.png)
 
 There is neither a fitness tracker nor a smartwatch visible in this image. At this point I simplify the prompt by removing "engaged in a workout routine" to see if it improves results.
 
 *Image Prompt #3*:
 * "8k close up portrait of a fitness enthusiast, demonstrating strength, agility, and determination, inspiring a healthy and active lifestyle, wearing a smartwatch, high resolution, highly detailed and Use a 'Close-up Details' filter to focus on intricate elements, revealing the beauty in small things."
->![prompt output with an extra hand](./images/playgroundAI/Picture3.png)
+>![prompt output with an extra hand](https://github.com/Aaron-Thai/GenAI/blob/main/images/playgroundAI/Picture3.png)
 
 There is finally a fitness tracker / smartwatch visible, but the layout of the image with how the arms are positioned is quite nonsensical. I try putting "engaged in a workout routine" back in to see if it fixes the output.
 
 *Image Prompt #4*:
 * 8k close up portrait of a fitness enthusiast engaged in a workout routine, demonstrating strength, agility, and determination, inspiring a healthy and active lifestyle, wearing a smartwatch, high resolution, highly detailed and Use a 'Close-up Details' filter to focus on intricate elements, revealing the beauty in small things.
->![prompt output with an extra hand](./images/playgroundAI/Picture4.png)
+>![prompt output with an extra hand](https://github.com/Aaron-Thai/GenAI/blob/main/images/playgroundAI/Picture4.png)
 
 At this point I am starting to believe that the “wearing a smartwatch” prompt is generating the strange output.
 
@@ -59,7 +59,7 @@ Maybe a simple prompt is better? I am going back to the tried and true “happy 
 
 *Image Prompt #5*:
 * Happy person wearing a smartwatch
->![prompt output with an extra hand](./images/playgroundAI/Picture5.png)
+>![prompt output with an extra hand](https://github.com/Aaron-Thai/GenAI/blob/main/images/playgroundAI/Picture5.png)
 
 This output seems relatively normal compared to the last two but the hands are still strange. I am now thinking that Stable Diffusion cannot generate proper hands without negative prompts.
 
@@ -69,7 +69,7 @@ I go back to the Advanced Settings and change some settings in an attempt to fix
 
 *Image Prompt #6*:
 * Happy athlete wearing a smartwatch
->![prompt output with an extra hand](./images/playgroundAI/Picture6.png)
+>![prompt output with an extra hand](https://github.com/Aaron-Thai/GenAI/blob/main/images/playgroundAI/Picture6.png)
 
 This output is much more satisfactory than the rest, possibly because of high prompt guidance. The hand is still slightly strange, as the person is wearing a watch but also holding a watch with some appendages sticking to it.
 
